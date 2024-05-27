@@ -15,7 +15,7 @@ Hi there! I'm a passionate Fullstack Developer dedicated to building robust and 
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryna-holikova-97746724a/)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dgolikova0@gmail.com)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dgolikova0@gmail.com) dgolikova0@gmail.com
 
 ## 🌱 About Me
 I'm constantly learning new technologies and staying up-to-date with industry trends. My goal is to contribute to meaningful projects and collaborate with talented individuals to create impactful software solutions.
