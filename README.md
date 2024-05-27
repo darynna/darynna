@@ -14,7 +14,7 @@ Hi there! I'm a passionate Fullstack Developer dedicated to building robust and 
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ## 📫 Let's Connect
-- [![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/](https://www.linkedin.com/in/daryna-holikova-97746724a/))
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daryna-holikova-97746724a/)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dgolikoba0@gmail.com)
 
 ## 🌱 About Me
